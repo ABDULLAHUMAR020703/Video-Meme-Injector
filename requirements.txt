@@ -1,0 +1,6 @@
+moviepy==2.0.0.dev2
+opencv-python
+Pillow
+imageio==2.25.1
+imageio-ffmpeg
+numpy==1.24.3 
